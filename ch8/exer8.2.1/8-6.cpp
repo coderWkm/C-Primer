@@ -1,0 +1,1 @@
+// 见ch8/example下的fstream.cpp
